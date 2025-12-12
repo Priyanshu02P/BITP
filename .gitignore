@@ -3,6 +3,8 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+fonts_preview.py
+all_fonts_preview.png
 # C extensions
 *.so
 
